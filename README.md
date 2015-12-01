@@ -2,6 +2,6 @@
 
 This is the code base for Elder Scrolls Online user interface and is presented here unadultered for reference only. If you're a Zenimax Media Inc. representative and have any objection to this repository just let me know and I'll take it down immediately.
 
-Last update: 2.2.4 API100013
+Last update: 2.2.7 API100013 (November 30 2015)
 
 Add-on users and developers should [head to the Wiki](https://github.com/haggen/esoui/wiki).
